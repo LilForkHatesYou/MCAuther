@@ -37,6 +37,6 @@ python MC_Account_Login.py
 
 ## Notes
 
-- Lunar Client must be closed when adding/removing accounts for changes to take effect.
+- After adding an account, switch to a different account in Lunar Client and it'll appear in your list.
 - Tokens expire — you'll need to re-add accounts periodically.
 - Works on Windows, macOS, and Linux.
